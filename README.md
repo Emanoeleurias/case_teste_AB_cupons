@@ -15,7 +15,7 @@
 │   ├── ddd_estados.csv                                      # Base de dados com os DDDs e seus estados
 ├── apresentacao/
 │   └── Relatório de análise da Campanha de Cupons.pdf       # Relatório final com insights e recomendações
-│   └── Apresentação de análise da Campanha de Cupons.ppt    # Apresentação final com insights e recomendações
+│   └── Apresentação de análise da Campanha de Cupons.pdf    # Apresentação final com insights e recomendações
 └── Case_Técnico_Data_Analytics_-_iFood                      # Case Técnico com instruções solicitadas 
 └── README.md                                                # Este documento
 </pre>
