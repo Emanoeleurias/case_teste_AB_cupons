@@ -12,10 +12,11 @@
 │   ├── etl_process.ipynb                                    # Notebook de ingestão e transformação dos dados
 │   ├── Case_pergunta_1.ipynb                                # Análise do impacto do teste A/B
 │   ├── Case_pergunta_2.ipynb                                # Segmentações e análises por perfil
+│   ├── ddd_estados.csv                                      # Base de dados com os DDDs e seus estados
 ├── apresentacao/
 │   └── Relatório de análise da Campanha de Cupons.pdf       # Relatório final com insights e recomendações
 │   └── Apresentação de análise da Campanha de Cupons.ppt    # Apresentação final com insights e recomendações
-└── Case_Técnico_Data_Analytics_-_iFood                      # Case Técnico com instruções solicitadas
+└── Case_Técnico_Data_Analytics_-_iFood                      # Case Técnico com instruções solicitadas 
 └── README.md                                                # Este documento
 </pre>
 
@@ -57,6 +58,7 @@ cd case_teste_AB_cupons</code></pre>
       <li><code>consumer.csv.gz</code></li>
       <li><code>restaurant.csv.gz</code></li>
       <li><code>ab_test_ref.csv</code></li>
+      <li><code>ddd_estados.csv</code> disponibilizado na pasta notebooks fonte <a href="https://dados.gov.br/dados/conjuntos-dados/codigos-nacionais-cn" target="_blank">site dados.gov</a>.</li>
     </ul>
   </li>
 </ol>
